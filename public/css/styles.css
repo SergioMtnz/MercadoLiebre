@@ -67,3 +67,22 @@ h4.descripciones{
     padding: 10px;
     margin: 10xp 0 20px 0;
 }
+
+.iconosFooter{
+    text-align: center;
+}
+
+.iconosFooter i{
+    font-size: 32px;
+    color: blue;
+    margin-top: 32px;
+}
+
+h4.tituloFooter{
+    text-align: center;
+}
+
+p.descripcionFooter{
+    margin-top: -20px;
+    text-align: center;
+}
